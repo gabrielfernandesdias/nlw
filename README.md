@@ -1,7 +1,7 @@
 # 🚀 NLW eSports 
 
 ![preview](/.github/preview.png)
-Projeto desenvolvido no evento Next Level Week da Rocktseat.
+Projeto desenvolvido no evento Next Level Week da Rocketseat.
 
 >trilha explorer
 
