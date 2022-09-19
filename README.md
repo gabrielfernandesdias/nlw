@@ -1,7 +1,9 @@
-# 🚀 NLW eSports trilha explorer
+# 🚀 NLW eSports 
 
 ![preview](/.github/preview.png)
-Projeto construído no evento Next Level Week da Rockseat.
+Projeto desenvolvido no evento Next Level Week da Rockseat.
+
+>trilha explorer
 
 Página de criada em 5 dias com as tecnologias bases de introdução ao Front-end.
 
