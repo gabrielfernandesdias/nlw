@@ -5,7 +5,7 @@ Projeto desenvolvido no evento Next Level Week da Rocketseat.
 
 >trilha explorer
 
-Página de criada em 5 dias com as tecnologias bases de introdução ao Front-end.
+Página de games e streamers criada em 5 dias com as tecnologias bases de introdução ao Front-end.
 
 [Clique aqui para acessar](https://gabrielfernandesdias.github.io/nlw/)
 
